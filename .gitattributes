@@ -1,2 +1,2 @@
-*.cs linguist-language=C#
-*.ico linguist-language=C#
+* text=auto
+*.js linguist-language=C#
